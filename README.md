@@ -1,2 +1,6 @@
-# Fall-2022-LC3-Assembly-Projects
-Fall 2023 LC3 assembly projects for Introduction to Computing at the University of Texas at Austin
+# Electrical & Computer Engineering Projects for the University of Texas at Austin
+Courses:
+  -Introduction to Computing (ECE306), Fall 2022, LC3 assembly 
+  -Introduction to Embedded Systems (ECE319K), Spring 2023, C & ARM Assembly
+
+Personal Projects:
