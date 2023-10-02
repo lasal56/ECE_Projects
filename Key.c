@@ -8,7 +8,7 @@
 // Lab number: 6
 // Hardware connections
 // TO STUDENTS "REMOVE THIS LINE AND SPECIFY YOUR HARDWARE********
-//Students: Laura Salazar, Aaron Lee
+//Students: 
 
 // Code files contain the actual implemenation for public functions
 // this file also contains an private functions and private data
