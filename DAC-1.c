@@ -3,7 +3,7 @@
 // Labs 6 and 10 requires 6 bits for the DAC
 // Runs on LM4F120 or TM4C123
 // Program written by: put your names here
-//Students: Laura Salazar, Aaron Lee
+//Students: 
 // Date Created: 3/6/17 
 // Last Modified: 3/1/23 
 // Lab number: 6
