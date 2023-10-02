@@ -4,8 +4,8 @@
 // Last Modified: 12/31/2022 
 #include "Lab2.h"
 // Put your name and EID in the next two lines
-char Name[] = "laura Salazar";
-char EID[] = "LS45349";
+char Name[] = "privacy reasons";
+char EID[] = "edited for privacy";
 
 #include <stdint.h>
 
