@@ -1,6 +1,6 @@
 ;****************** main.s ***************
 ; Program initially written by: Yerraballi and Valvano
-; Author: Laura Salazar
+; Author: 
 ; Date Created: 1/15/2018 
 ; Last Modified: 1/25/2023 
 ; Brief description of the program: Solution to Lab1
