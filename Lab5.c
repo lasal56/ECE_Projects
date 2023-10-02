@@ -1,7 +1,7 @@
 // Lab5.c starter program EE319K Lab 5, Spring 2023
 // Runs on TM4C123
 // Put your names here
-//Laura Salazar & Aaron Lee
+//
 // 2/5/2023 version
 
 
