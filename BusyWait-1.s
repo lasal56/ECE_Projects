@@ -1,5 +1,5 @@
 ; BusyWait.s
-; Student names: Laura Salazar & Aaron Lee
+; Student names: 
 ; Last modification date: 3/8/23
 
 ; Runs on TM4C123
