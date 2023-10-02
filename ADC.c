@@ -2,7 +2,7 @@
 // Runs on TM4C123
 // Provide functions that initialize ADC0
 // Last Modified: 1/2/2023  
-// Student names: Laura Salazar
+// Student names:
 // Last modification date: 3/29/2023
 // This file is in the inc folder so it automatically will be applied to labs 8 9 and 10
 // Labs 8, 9, and 10 specify PD2
