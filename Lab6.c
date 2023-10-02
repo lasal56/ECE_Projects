@@ -3,7 +3,7 @@
 // Use SysTick interrupts to implement a 4-key digital piano
 // EE319K lab6 starter
 // Program written by: put your names here
-//Students: Laura Salazar, Aaron Lee
+//Students: 
 
 // Date Created: 3/6/17 
 // Last Modified: 3/1/23  
